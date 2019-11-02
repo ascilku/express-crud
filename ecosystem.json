@@ -1,0 +1,7 @@
+{
+    "apps" : [{
+        "name" : "inready",
+        "script" : "./bin/www",
+        "watch" : "true"
+    }]
+}
